@@ -1,2 +1,2 @@
-<p align="center"><img src="https://github.com/irohia/automatons/raw/main/repo-logo.png" height=256px/></p>
+<p align="center"><img src="https://github.com/irohia/automatons/raw/main/repo-logo.png" height=200px/></p>
 <hr/><br/><table><tr><td><br/><p align="center">Scripts</p></td><td><br/><p align="center">Description</p></td><td><br/><p align="center">Download (Right Click → "Save link as...")</p></td></tr><tr><td>EWD_KDE v2</td><td>Allows dragging and resizing windows with Alt.</td><td>https://raw.githubusercontent.com/irohia/automatons/main/EWD_KDE.v2.ahk</td></tr></table>
